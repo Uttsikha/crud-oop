@@ -1,0 +1,26 @@
+.table {
+	padding: 10px;
+
+}
+td,th,a,caption{
+	padding: 10px;
+	text-align:center;
+
+}
+
+.color{
+
+	width: 165px;
+}
+.alert{
+	color:red;
+	padding: 10px;
+}
+.btn{
+	padding: 10px;
+	color: orange;
+}
+caption{
+	background: brown;
+		font-size: 29px;
+}
